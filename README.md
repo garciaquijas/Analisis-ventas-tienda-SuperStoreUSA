@@ -1,20 +1,12 @@
-# Análisis de tienda de articulos de oficina
+# Análisis de rendimiento de la cadena de tiendas SuperSales USA
 
-KPIs Generales:
-Total de Ventas: Este KPI te mostrará la suma total de las ventas realizadas en el período seleccionado.
-Total de Ganancias: La ganancia total obtenida después de restar los costos de los ingresos totales generados por las ventas.
-Total de Descuentos Aplicados: La cantidad total de descuentos aplicados a las ventas totales. Esto puede ser útil para evaluar el impacto de los descuentos en las ganancias netas.
+El objetivo de este proyecto es encontrar el origen de las bajas ganancias de la cadena SuperSales, una hipertienda con presencia en Estados Unidos que se dedica a la venta de electrónicos, muebles y artículos de oficina, aplicando análisis de datos y herramientas de visualización para obtener información importante acerca de las tendiencias de las ventas por región y por categoría. Con estos insights, se podrán desarrollar estrategias efectivas y tomar decisiones informadas para aumentar las ganancias de la empresa.
 
-KPIs por Región:
+Los datos fueron obtenidos del dataset de [Kaggle](https://www.kaggle.com/code/machimizado/aumentando-ganancias-en-supersales?scriptVersionId=136585906&cellId=2 )
 
-Ventas por Región: Muestra las ventas totales desglosadas por cada región.
-Ganancias por Región: Indica las ganancias totales generadas por cada región después de considerar los costos asociados.
-% de Ganancia por Ventas: Calcula el porcentaje de ganancia con respecto a las ventas totales para cada región.
-Descuentos Aplicados por Región: Muestra la cantidad total de descuentos aplicados en cada región.
+La empresa registro $2,297,199.86 en ventas y ganancias de $286,394.05 con un margen de ganancia del 12.47%
 
-KPIs por Categoría y Subcategoría:
+La región Oeste aporta la mayor parte de las ganancias, seguida del Este y del Sur, quedando la región Central como la que menos ganancias reporta. Este resultado se debe principalmente a que la región Central es la que más descuentos aplica, seguida de cerca del Oeste, después el Este y finalmente el Sur. 
 
-Ventas por Categoría y Subcategoría: Muestra las ventas totales desglosadas por cada categoría y subcategoría de productos.
-Ganancias por Categoría y Subcategoría: Indica las ganancias totales generadas por cada categoría y subcategoría después de considerar los costos.
-% de Ganancia por Ventas por Categoría y Subcategoría: Calcula el porcentaje de ganancia con respecto a las ventas totales para cada categoría y subcategoría.
-Descuentos Aplicados por Categoría y Subcategoría: Muestra la cantidad total de descuentos aplicados en cada categoría y subcategoría.
+En la región Central, los estados de Texas e Illinois reportaron pérdidas por la venta de muebles de oficina como mobiliario, libreros, mesas y sillas por la aplicación de descuentos. Los mismos estados ocasionaron una baja en las ganancias por la aplicación excesiva de descuentos a los accesorios, carpetas y suministros para oficina.
+
