@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Encontrar el origen de las bajas ganancias de la cadena SuperStore, una hipertienda con presencia en Estados Unidos que se dedica a la venta de electrónicos, muebles y artículos de oficina, aplicando análisis y visualización de datos para obtener información importante acerca de las tendiencias de las ventas por región y por categoría. Con estos insights, se podrán desarrollar estrategias efectivas y tomar decisiones informadas para aumentar las ganancias de la cadena comercial.
+Encontrar el origen de las bajas ganancias de la cadena SuperStore, una hipertienda con presencia en Estados Unidos que se dedica a la venta de electrónicos, muebles y artículos de oficina, aplicando análisis exploratorio y visualización de datos para obtener información importante acerca de las tendiencias de las ventas por región y por categoría. Con estos insights, se podrán desarrollar estrategias efectivas y tomar decisiones informadas para aumentar las ganancias de la cadena comercial.
 
 Los datos fueron obtenidos del dataset de [Kaggle](https://www.kaggle.com/code/machimizado/aumentando-ganancias-en-supersales?scriptVersionId=136585906&cellId=2 ) y analizados con la herramienta de visualización Power BI.
 
