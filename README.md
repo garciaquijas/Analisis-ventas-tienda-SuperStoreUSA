@@ -1,4 +1,4 @@
-# Resultados financieros de la cadena de tiendas SuperStore USA
+# Análisis de ventas de la cadena de tiendas SuperStore USA
 
 ## Objetivo
 
