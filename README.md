@@ -8,17 +8,13 @@ Los datos fueron obtenidos del dataset de [Kaggle](https://www.kaggle.com/code/m
 
 ## Indicadores clave
 
-- Total de ventas
+- Total de Ventas
 
-- Porcentaje de ventas
+- Ganancias Brutas
 
-- Total de ganancias
+- Margen de Ganancia
 
-- Margen de ganancia
-
-- Total de productos
-
-- Total de descuentos
+- Total de Descuentos
 
 
 ## Ventas y ganancias por categoría
@@ -27,7 +23,7 @@ La categoría de tecnología genera la mayor cantidad de ingresos, las copiadora
 
 La segunda categoría que genera más rentabilidad es la venta de suministros para oficina. La venta de papel es la subcategoría más rentable mientras que la venta de artículos para oficina genera pérdidas.
 
-La venta de muebles para oficina representa un tercio de las ventas totales. El producto más rentable es la venta de mobiliario y la venta de sillas es alta en volumen pero con bajo margen de ganancia. La venta de mesas y libreros generan pérdidas. En general, la categoría de muebles genera menos ganancias en comparación con las otras categorías.
+La categoría de muebles genera menos ganancias en comparación con las otras categorías. El producto más rentable es la venta de mobiliario y la venta de sillas es alta en volumen pero con bajo margen de ganancia. La venta de mesas y libreros generan pérdidas. 
 
 ## Ventas y ganancias por región
 
